@@ -87,10 +87,10 @@ uvicorn main:app --reload
 
 ### 📱 Screenshots
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 *Smart Dashboard with Real-time Analytics*
 
-![Attendance](mark.png)
+![Attendance](mark.PNG)
 *Face Recognition in Action*
 
 ### 🌍 Browser Support
@@ -102,8 +102,7 @@ uvicorn main:app --reload
 
 ### 📈 Project Structure
 
-```
-```
+
 ```tree
 attendance-system/
 ├── frontend/ # React frontend
@@ -117,8 +116,7 @@ attendance-system/
 ├── services/
 └── requirements.txt
 ```
-```
-```
+
 
 
 ### 🤝 Contributing
