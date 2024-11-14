@@ -45,7 +45,7 @@ npm start
 
 #### Backend Setup
 
-** Navigate to backend directory**
+**Navigate to backend directory**
 
 ```bash
 python -m venv venv
