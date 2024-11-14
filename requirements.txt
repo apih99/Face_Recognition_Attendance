@@ -1,0 +1,57 @@
+# Core dependencies
+pip>=21.0
+setuptools>=44.0.0
+wheel>=0.37.0
+
+# Packaging dependencies
+packaging>=21.0
+
+# Type checking
+typing-extensions>=4.0.0
+
+# File handling
+pathlib>=1.0.1
+
+# Logging
+logging>=0.5.1.2
+
+# Web Framework
+fastapi>=0.68.0
+uvicorn>=0.15.0
+
+# Database
+sqlalchemy>=1.4.0
+alembic>=1.7.0
+psycopg2-binary>=2.9.0  # For PostgreSQL
+
+# Authentication & Security
+python-jose>=3.3.0
+passlib>=1.7.4
+python-multipart>=0.0.5
+bcrypt>=3.2.0
+
+# Image Processing (for webcam functionality)
+opencv-python>=4.5.0
+numpy>=1.21.0
+Pillow>=8.3.0
+
+# CORS
+fastapi-cors>=0.0.6
+
+# Excel file handling (to match frontend xlsx capability)
+openpyxl>=3.0.0
+pandas>=1.3.0
+
+# Environment variables
+python-dotenv>=0.19.0
+
+# Type checking
+pydantic>=1.8.0
+typing-extensions>=4.0.0
+
+# Testing
+pytest>=6.2.0
+pytest-asyncio>=0.15.0
+
+# Note: Version numbers are estimates based on features used in the code.
+# Adjust versions based on your specific needs.
