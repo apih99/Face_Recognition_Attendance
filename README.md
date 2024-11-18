@@ -22,7 +22,7 @@
 **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/attendance-system.git
+git clone https://github.com/apih99/Face_Recognition_Attendance.git
 ```
 
 **Navigate to frontend directory**
